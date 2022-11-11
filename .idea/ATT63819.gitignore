@@ -1,8 +1,0 @@
-.idea
-*.iml
-target
-out
-tmp.xml
-tmp.json
-
-src/main/java/com/suncor/adapters/utils/cli/out\.csv
