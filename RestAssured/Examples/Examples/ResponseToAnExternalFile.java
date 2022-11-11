@@ -18,7 +18,7 @@ public class ResponseToAnExternalFile {
     @Test
     public void getPetInfo() {
         // Set file path
-        File resJSONFile = new File("src/test/resources/resLog.json");
+        File resJSONFile = new File("/Users/sushma/Documents/Projects Code/FST-M2_local/src/test/java/Activities/resLog.json");
         Response response =
                 given().contentType(ContentType.JSON) // Set headers
                         .when().get(ROOT_URI + "/77232"); // Send GET request
