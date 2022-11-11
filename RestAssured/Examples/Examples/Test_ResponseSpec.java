@@ -31,7 +31,8 @@ public class Test_ResponseSpec {
 
     @Test
     public void testPet1() {
-        Response response = given().setContentType(ContentType.JSON) // Set content type
+        Response response =
+                given().contentType(ContentType.JSON) // Set content type
                 .pathParam("petId", "77232") // Set path parameter
                 .get("/{petId}"); // Send GET request
 
