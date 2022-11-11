@@ -6,43 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b305a9e6-378f-4204-9275-80fd10ee12e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit/JUnit_Activities/Activities/NotEnoughFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Activities/Activities/NotEnoughFundsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TimeoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TimeoutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Activities/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Activities/ExpectedExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Activities/NotEnoughFundsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/AddNewPetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/AssertionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/CalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/ConditionalLoggingExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/DataProviderExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/DeleteRestAssuredExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Example_RequestSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Example_ResponseSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/FirstTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/InputFromJSONFileExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/JSONSchemaValidatorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/LoggingRequestDetailsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/LoggingResponseDetailsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/MultiPartExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/OrderAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/PathParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/PutRestAssuredExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/QueryParams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/RandomAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/ResponseToAnExternalFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimpleDELETEExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimpleGETExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimplePOSTExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimplePUTExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/TestFixtureExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Test_RequestSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Test_ResponseSpec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssured_Activities/Activity2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssured_Activities/Activity3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssured_Activities/RS_Activity1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,22 +64,7 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Activity1">
-    <configuration name="Activity1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FST-M2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Activities.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Activities" />
-      <option name="MAIN_CLASS_NAME" value="Activities.Activity1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.JUnit_Activity1">
     <configuration name="All in FST-M2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="FST-M2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -125,6 +73,21 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnit_Activity1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FST-M2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Activities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Activities" />
+      <option name="MAIN_CLASS_NAME" value="Activities.JUnit_Activity1" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -315,7 +278,7 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in FST-M2" />
-      <item itemvalue="JUnit.Activity1" />
+      <item itemvalue="JUnit.JUnit_Activity1" />
       <item itemvalue="JUnit.RandomAnnotation" />
       <item itemvalue="JUnit.TestFixtureExample" />
       <item itemvalue="Maven.FST-M2 [package]" />
@@ -326,7 +289,7 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Activity1" />
+        <item itemvalue="JUnit.JUnit_Activity1" />
         <item itemvalue="JUnit.TestFixtureExample" />
         <item itemvalue="JUnit.RandomAnnotation" />
         <item itemvalue="TestNG.AssertionExample.personHasFirstName" />
