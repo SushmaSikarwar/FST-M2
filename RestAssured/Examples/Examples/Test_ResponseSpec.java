@@ -9,7 +9,6 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
-import static io.restassured.path.json.JsonPath.given;
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class Test_ResponseSpec {

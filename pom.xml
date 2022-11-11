@@ -10,7 +10,6 @@
 
     <dependencies>
     <!--JUnit-->
-
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-api</artifactId>
@@ -62,6 +61,12 @@
             <groupId>au.com.dius</groupId>
             <artifactId>pact-jvm-provider-junit5</artifactId>
             <version>4.0.10</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

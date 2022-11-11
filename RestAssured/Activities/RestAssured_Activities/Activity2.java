@@ -1,9 +1,9 @@
 package RestAssured_Activities;
 
+
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
