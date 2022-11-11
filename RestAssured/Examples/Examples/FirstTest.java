@@ -8,13 +8,46 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.equalTo;
+import static org.hamcrest.Matchers.lessThan;
+import static org.testng.AssertJUnit.assertEquals;
 
 public class FirstTest {
 
+    // Set the base URI
+    String baseURI = "https://petstore.swagger.io/v2/pet";
+
     @Test
-    public void GetPetDetails() {
+    public void getRequestWithQueryParams(){
+
+        Response response =
+                given().header("Content-Type", "application/json").queryParam("status", "sold")
+                        .when().get(baseURI + "/findByStatus");
+
+        System.out.println(response.getBody().asString());
+
+        System.out.println(response.getHeaders().asList());
+
+        String petStatus = response.then().extract().path("[0].status");
+        System.out.println(petStatus);
+
+        assertEquals(petStatus,"sold");
+        response.then().statusCode(200).body("[0].status", equalTo("sold"));
+        response.then().time(lessThan(2000l));
+
+    }
+    @Test
+    public void getRequestWithPathParams(){
+
+        given().header("Content-Type", "application/json").pathParam("petId", 9)
+                        .when().get(baseURI + "/{petId}")
+                        .then().statusCode(200).body("status",equalTo("sold")).time(lessThan(2000l));
+
+    }
+
+    @Test
+    public void getPetDetails() {
         // Specify the base URL to the RESTful web service
-        String baseURI = "https://petstore.swagger.io/v2/pet";
+       // String baseURI = "https://petstore.swagger.io/v2/pet";
 
         // Make a request to the server by specifying the method Type and
         // resource to send the request to.
@@ -32,4 +65,5 @@ public class FirstTest {
         response.then().statusCode(200);
         response.then().body("[0].status", equalTo("sold"));
     }
+
 }
