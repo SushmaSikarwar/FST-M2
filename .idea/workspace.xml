@@ -6,7 +6,43 @@
   <component name="ChangeListManager">
     <list default="true" id="b305a9e6-378f-4204-9275-80fd10ee12e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/JUnit_Activities/Activities/NotEnoughFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Activities/Activities/NotEnoughFundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TimeoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TimeoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Activities/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Activities/ExpectedExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Activities/NotEnoughFundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/AddNewPetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/AssertionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/ConditionalLoggingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/DataProviderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/DeleteRestAssuredExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Example_RequestSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Example_ResponseSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/InputFromJSONFileExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/JSONSchemaValidatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/LoggingRequestDetailsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/LoggingResponseDetailsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/MultiPartExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/OrderAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/PathParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/PutRestAssuredExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/QueryParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/RandomAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/ResponseToAnExternalFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimpleDELETEExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimpleGETExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimplePOSTExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/SimplePUTExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/TestFixtureExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Test_RequestSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Examples/Test_ResponseSpec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssured_Activities/Activity2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssured_Activities/Activity3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RestAssured_Activities/RS_Activity1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +82,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sushma/Documents/Projects Code/FST-M2_local",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sushma/Documents/Projects Code/FST-M2_local&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Examples" />
@@ -65,7 +101,22 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestFixtureExample">
+  <component name="RunManager" selected="JUnit.Activity1">
+    <configuration name="Activity1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FST-M2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Activities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Activities" />
+      <option name="MAIN_CLASS_NAME" value="Activities.Activity1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in FST-M2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="FST-M2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -187,36 +238,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputFromJSONFileExample" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FST-M2" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="17" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Examples" />
-      <option name="MAIN_CLASS_NAME" value="Examples.InputFromJSONFileExample" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrderAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FST-M2" />
       <shortenClasspath name="NONE" />
@@ -294,22 +315,22 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in FST-M2" />
+      <item itemvalue="JUnit.Activity1" />
       <item itemvalue="JUnit.RandomAnnotation" />
       <item itemvalue="JUnit.TestFixtureExample" />
       <item itemvalue="Maven.FST-M2 [package]" />
       <item itemvalue="TestNG.Activities" />
       <item itemvalue="TestNG.&lt;default&gt;" />
       <item itemvalue="TestNG.AssertionExample.personHasFirstName" />
-      <item itemvalue="TestNG.InputFromJSONFileExample" />
       <item itemvalue="TestNG.OrderAnnotation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Activity1" />
         <item itemvalue="JUnit.TestFixtureExample" />
         <item itemvalue="JUnit.RandomAnnotation" />
         <item itemvalue="TestNG.AssertionExample.personHasFirstName" />
         <item itemvalue="TestNG.OrderAnnotation" />
-        <item itemvalue="TestNG.InputFromJSONFileExample" />
       </list>
     </recent_temporary>
   </component>

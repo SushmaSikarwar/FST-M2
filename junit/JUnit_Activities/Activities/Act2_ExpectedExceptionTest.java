@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class ExpectedExceptionTest {
+public class Act2_ExpectedExceptionTest {
     @Test
     void notEnoughFunds() {
         // Create an object for BankAccount class

@@ -13,7 +13,7 @@ public class TimeoutTest {
         // The following assertion succeeds.
         assertTimeout(ofMinutes(2), () -> {
             // Perform task that takes less than 2 minutes.
-            System.out.println("This test will pass")
+            System.out.println("This test will pass");
         });
     }
 
