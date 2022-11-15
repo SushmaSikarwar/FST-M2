@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b305a9e6-378f-4204-9275-80fd10ee12e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAssured/Examples/Examples/LoggingRequestDetailsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Examples/Examples/LoggingRequestDetailsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleDELETEExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleDELETEExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleGETExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleGETExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/ExceptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/ExceptionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/JUnitPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/JUnitPlatform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectPackages.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectPackages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssured/Project/Project/GitHubProjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Project/Project/GitHubProjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Project/GitHubProjectTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +66,7 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GitHubProjectTest">
+  <component name="RunManager" selected="JUnit.ConsumerTest">
     <configuration name="All in FST-M2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="FST-M2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -80,6 +75,21 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FST-M2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Project" />
+      <option name="MAIN_CLASS_NAME" value="Project.ConsumerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,31 +109,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomAnnotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProviderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FST-M2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="Project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Examples" />
-      <option name="MAIN_CLASS_NAME" value="Examples.RandomAnnotation" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFixtureExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FST-M2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Examples" />
-      <option name="MAIN_CLASS_NAME" value="Examples.TestFixtureExample" />
+      <option name="PACKAGE_NAME" value="Project" />
+      <option name="MAIN_CLASS_NAME" value="Project.ProviderTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -285,9 +280,9 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in FST-M2" />
+      <item itemvalue="JUnit.ConsumerTest" />
+      <item itemvalue="JUnit.ProviderTest" />
       <item itemvalue="JUnit.JUnit_Activity1" />
-      <item itemvalue="JUnit.RandomAnnotation" />
-      <item itemvalue="JUnit.TestFixtureExample" />
       <item itemvalue="Maven.FST-M2 [package]" />
       <item itemvalue="TestNG.Activities" />
       <item itemvalue="TestNG.&lt;default&gt;" />
@@ -296,11 +291,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConsumerTest" />
+        <item itemvalue="JUnit.ProviderTest" />
         <item itemvalue="TestNG.GitHubProjectTest" />
         <item itemvalue="TestNG.GitHubProjectTest.addSSHKey" />
         <item itemvalue="JUnit.JUnit_Activity1" />
-        <item itemvalue="JUnit.TestFixtureExample" />
-        <item itemvalue="JUnit.RandomAnnotation" />
       </list>
     </recent_temporary>
   </component>

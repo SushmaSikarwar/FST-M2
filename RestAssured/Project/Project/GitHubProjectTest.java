@@ -1,4 +1,4 @@
-package Project;
+/*package Project;
 
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
@@ -29,7 +29,7 @@ public class GitHubProjectTest {
                 .setContentType(ContentType.JSON)
                     // SetAuth (auth2("ghp_"))
                // .setAuth(oauth2("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"))
-               .addHeader("Authorization", "Project_Token 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")
+               .addHeader("Authorization", "token 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")
                     // Set base URL
                 .setBaseUri("https://api.github.com")
                     // Build request specification
@@ -40,7 +40,7 @@ public class GitHubProjectTest {
     @Test(priority=1)
     public void addSSHKey() {
 
-        Map<String, Object> reqBody = new HashMap<>();
+        Map<String, String> reqBody = new HashMap<>();
 
         reqBody.put("title","TestAPIKey");
         reqBody.put("key", "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDY5whAsUQWVBO+QjGJdztfro2tVJMdGB1jyOi9JzLNofD4hVD9paPxzgM99/mnvmakxjyD94ciXUsOLFrGqUhcpaAbVkz5CHOijVLoXoigxrAyLkCzR94k8EtrWoBOmhlq+jLjmZlWAWRjBIVp6Zrsdu4aTdhjcoIJvVrNkePcvQtBXrjXB+U7fYIaEM5mxF7KUbNJ6ExM81ldBrRgloNhguWcrcvZB9aK59+/mDgRxyoqekqQ7M+pYVvaHPr4zB6jIQlP99vXMI3vpRaSUoB+nev/giz+pqy36TxP0oA2iIAa9YB68GD7HV18yCm01peCj6NEiRdq8EGJoii/X2gv");
@@ -86,3 +86,4 @@ public class GitHubProjectTest {
     }
 
 }
+*/
