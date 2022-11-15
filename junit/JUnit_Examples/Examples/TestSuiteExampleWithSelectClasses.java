@@ -1,4 +1,4 @@
-package Examples;
+/*package Examples;
 
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.runner.RunWith;
@@ -17,3 +17,4 @@ import org.junit.platform.runner.JUnitPlatform;
 })
 public class TestSuiteExampleWithSelectClasses {
 }
+*/

@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b305a9e6-378f-4204-9275-80fd10ee12e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssured/Examples/Examples/LoggingRequestDetailsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Examples/Examples/LoggingRequestDetailsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleDELETEExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleDELETEExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleGETExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Examples/Examples/SimpleGETExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/ExceptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/ExceptionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/JUnitPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/JUnitPlatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectPackages.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/JUnit_Examples/Examples/TestSuiteExampleWithSelectPackages.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +71,7 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JUnit_Activity1">
+  <component name="RunManager" selected="TestNG.GitHubProjectTest">
     <configuration name="All in FST-M2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="FST-M2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -171,24 +178,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertionExample.personHasFirstName" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GitHubProjectTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FST-M2" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="Project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Examples" />
-      <option name="MAIN_CLASS_NAME" value="Examples.AssertionExample" />
-      <option name="METHOD_NAME" value="personHasFirstName" />
+      <option name="PACKAGE_NAME" value="Project" />
+      <option name="MAIN_CLASS_NAME" value="Project.GitHubProjectTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -201,24 +208,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GitHubProjectTest.addSSHKey" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="FST-M2" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="Project.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Examples" />
-      <option name="MAIN_CLASS_NAME" value="Examples.OrderAnnotation" />
-      <option name="METHOD_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Project" />
+      <option name="MAIN_CLASS_NAME" value="Project.GitHubProjectTest" />
+      <option name="METHOD_NAME" value="addSSHKey" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -284,16 +291,16 @@
       <item itemvalue="Maven.FST-M2 [package]" />
       <item itemvalue="TestNG.Activities" />
       <item itemvalue="TestNG.&lt;default&gt;" />
-      <item itemvalue="TestNG.AssertionExample.personHasFirstName" />
-      <item itemvalue="TestNG.OrderAnnotation" />
+      <item itemvalue="TestNG.GitHubProjectTest" />
+      <item itemvalue="TestNG.GitHubProjectTest.addSSHKey" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GitHubProjectTest" />
+        <item itemvalue="TestNG.GitHubProjectTest.addSSHKey" />
         <item itemvalue="JUnit.JUnit_Activity1" />
         <item itemvalue="JUnit.TestFixtureExample" />
         <item itemvalue="JUnit.RandomAnnotation" />
-        <item itemvalue="TestNG.AssertionExample.personHasFirstName" />
-        <item itemvalue="TestNG.OrderAnnotation" />
       </list>
     </recent_temporary>
   </component>

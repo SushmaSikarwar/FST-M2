@@ -1,4 +1,4 @@
-package Examples;
+/*package Examples;
 
 import org.junit.Test;
 import org.junit.jupiter.api.function.Executable;
@@ -26,3 +26,4 @@ public class ExceptionsTest {
             });
         }
 }
+*/
