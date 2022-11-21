@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b305a9e6-378f-4204-9275-80fd10ee12e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAssured/Project/Project/GitHubProjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestAssured/Project/Project/GitHubProjectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Project/GitHubProjectTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
